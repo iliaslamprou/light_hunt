@@ -1,7 +1,9 @@
 # Light_Hunt
 Ένα διαδραστικό παιχνίδι για εξωτερικό χώρο γεμάτο δράση, φαντασία και ενθουσιασμό, ιδανικό για παιδιά
 
+![image]([https://prnt.sc/3pTx_Qfzw_CU))
 
+*image(https://prnt.sc/3pTx_Qfzw_CU)
 
 ***Όνομα Ομάδας***
 The Hunters of Light
